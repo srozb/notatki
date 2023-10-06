@@ -2,7 +2,7 @@
 title: FOR508 - notatki
 id: 20210202135818
 tag: #szkolenie #sans
-author: @srozb
+author: '@srozb'
 description: >
     Moje notatki ze slajdów, w których zapisane nie to co
     najważniejsze, ale to co może mi umknąć.
